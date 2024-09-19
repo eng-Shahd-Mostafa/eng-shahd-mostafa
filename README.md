@@ -5,7 +5,11 @@
 I am a student at the faculty of Computers and Artificial intelligence.
 I am passionate about Programming and hope to become a skilled Software Engineer.
 
-Skills: C++ / HTML / CSS
+Skills: 
+* C++
+* OOP
+* HTML
+* CSS
 
 - 🔭 I’m currently working on this page.new projects 
 - 🌱 I’m currently learning oop with c++,html,css 

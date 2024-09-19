@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Shahd
 #### Software Engineer
-![Software Engineer](https://i.pinimg.com/564x/0e/94/8b/0e948bdcbcbf38c2494351cfde00d0e0.jpg)
+![Software Engineer](https://i.pinimg.com/236x/a7/df/2e/a7df2e5e0e21312a24c33b97443b33d6.jpg)
 
 I am a student at the faculty of Computers and Artificial intelligence.
 I am passionate about Programming and hope to become a skilled Software Engineer.
@@ -12,7 +12,6 @@ Skills:
 * CSS
 
 
-- 🔭 I’m currently working on this page.new projects 
 - 🌱 I’m currently learning oop with c++,html,css 
 - 📫 How to reach me: Gmail: eng.shahd.mostafa@gmail.com 
 - 😄 Pronouns: she/her 

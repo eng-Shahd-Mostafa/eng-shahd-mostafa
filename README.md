@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Shahd
 #### Software Engineer
-![Software Engineer](https://i.pinimg.com/236x/a7/df/2e/a7df2e5e0e21312a24c33b97443b33d6.jpg)
+![Software Engineer](https://i.pinimg.com/564x/08/ca/db/08cadb0273d49736bed2dad97f689000.jpg)
 
 I am a student at the faculty of Computers and Artificial intelligence.
 I am passionate about Programming and hope to become a skilled Software Engineer.

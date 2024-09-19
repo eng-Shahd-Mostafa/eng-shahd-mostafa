@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Shahd Mostafa
-----------------------------------------------------------
-### Software Engineer
-![Software Engineer](https://i.pinimg.com/564x/08/ca/db/08cadb0273d49736bed2dad97f689000.jpg)
+____________________________________________________________________
+#### Software Engineer
+![Software Engineer](https://i.pinimg.com/736x/bb/83/30/bb83307de14c3ece8594d870b96bd136.jpg)
 
 I am a student at the faculty of Computers and Artificial intelligence.
 I am passionate about Programming and hope to become a skilled Software Engineer.

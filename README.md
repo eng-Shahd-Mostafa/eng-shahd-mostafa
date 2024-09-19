@@ -11,8 +11,6 @@ Skills:
 * HTML
 * CSS
 
-<img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width=200px height=200px alt="gif"/>
-
 
 - 🔭 I’m currently working on this page.new projects 
 - 🌱 I’m currently learning oop with c++,html,css 

@@ -24,8 +24,6 @@ Skills:
 
 <p align="left"> <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" alt="css" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatmamohamed111&show_icons=true&locale=en" alt="fatmamohamed111" /></p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-shahd-mostafa)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eng-shahd-mostafa&show_icons=true)  

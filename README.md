@@ -14,7 +14,7 @@ I am passionate about Programming and hope to become a skilled Software Engineer
 - 🌱 I’m currently learning oop with c++,html,css 
 - <img src="https://i.postimg.cc/CxwVKhdy/airplane.gif" width="30" align="center"> How to reach me **shahdmostafa1717@gmail.com**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eng-shahd-mostafa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shahd-mostafa-844673318/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/27099839/shahd-mostafa)  
+
 
 # <img src="https://github.com/Hafiz-Sakib/Hafiz-Sakib/blob/main/assets/animated%20emoji/rocket.gif?raw=true" width="60px" align="center"> Languages and Tools :
 
@@ -59,8 +59,7 @@ I am passionate about Programming and hope to become a skilled Software Engineer
 </br>
 
 <p align="center">
-<a href = "https://www.hackerrank.com/profile/eng_shahd_mosta1"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>
-<a href = "https://www.codechef.com/users/shahdmostafa"><img src="https://img.icons8.com/color/48/null/codechef.png"/></a>
-<a href = "https://www.linkedin.com/in/shahd-mostafa-844673318/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/shahdmostafa1717/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+  <a href = "https://www.linkedin.com/in/shahd-mostafa-844673318/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShahdMostafa" height="30" width="40" /></a>
+  <a href = "https://www.instagram.com/shahdmostafa1717/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ShahdMostafa" height="30" width="40" /></a>
+  <a href="https://x.com/ShahdMosta66204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShahdMostafa" height="30" width="40" /></a>
+</p>

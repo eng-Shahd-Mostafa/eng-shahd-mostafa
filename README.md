@@ -4,8 +4,6 @@
 I am a student at the faculty of Computers and Artificial intelligence.
 I am passionate about Programming and hope to become a skilled Software Engineer.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eng-shahd-mostafa&label=Profile%20views&color=0e75b6&style=flat" alt="eng-shahd-mostafa" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eng-shahd-mostafa" alt="eng-shahd-mostafa" /></a> </p>
 
 Skills: 

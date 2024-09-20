@@ -54,7 +54,7 @@ I am passionate about Programming and hope to become a skilled Software Engineer
   <br/>
 
 
-# <img src="./assets/animated emoji/handshake.gif" width="40px" align="center"> Connect with me :
+# Connect with me :
 
 </br>
 

@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer(●'◡'●)</h3>
 
 <h3 align="center">
-<em><strong>I am a student at the faculty of Computers and Artificial intelligence.
+<em><strong>I am a student at faculty of Computers & Artificial intelligence Cairo University.
 I am passionate about Programming and hope to become a skilled Software Engineer.</em></strong><img src="https://i.postimg.cc/1X7dTyX7/smiling-face-with-halo.gif" width="35px" align="center"></h3>
 
 <p align="center"><img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width=auto height=450px alt="gif"/></p>

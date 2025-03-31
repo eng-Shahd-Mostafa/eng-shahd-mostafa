@@ -54,7 +54,7 @@ I am passionate about Programming and hope to become a powerful Software Enginee
 - **Backend Development**: Django, Python
 - **Programming Languages**: C++, Java, JavaScript, Python
 - **Database Management**: Microsoft SQL Server
-- **Version Control**: Git
+- **Version Control**: Git, Github
 
 # <img src="https://github.com/Hafiz-Sakib/Hafiz-Sakib/blob/main/assets/animated%20emoji/direct_hit.gif?raw=true" width="40px" align="center"> My Github Stats
 

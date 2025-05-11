@@ -52,7 +52,7 @@ I am passionate about Programming and hope to become a powerful Software Enginee
 
 - **Frontend Development**: HTML5, CSS3, JavaScript
 - **Backend Development**: Django, Python
-- **Programming Languages**: C++, Java, JavaScript, Python
+- **Programming Languages**: C++, Java, JavaScript, Python, C#
 - **Database Management**: Microsoft SQL Server
 - **Version Control**: Git, Github
 

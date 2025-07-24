@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/krthEL0.gif" alt="Welcome.gif">
+  <img src="images/Welcome.gif" alt="Welcome.gif">
   <br> <br>
 
   <h1 align="center">
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/github/followers/eng-Shahd-Mostafa?label=Followers&style=for-the-badge&color=A020F0" alt="eng-Shahd-Mostafa" />
   </p>
   
-  <img src="https://i.imgur.com/t2Iuc6M.png" width="300" alt="Coding Queen GIF">
+  <img src="images/Shahd.jpg" width="300" alt="Coding Queen GIF">
 </div>
 
 ---

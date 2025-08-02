@@ -23,7 +23,6 @@
 </div>
 
 ---
-<br><br>
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b> About Me.. </b>
@@ -39,7 +38,6 @@
 
 
 ---
-<br><br>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools :
@@ -102,7 +100,6 @@
 </p>
 
 ---
-<br><br>
 
 ## ⚒️Technologies Used:
 
@@ -114,8 +111,6 @@
 
 
 ---
-<br><br>
-,لاق.,
 
 ### 📊 My GitHub Status
 
@@ -130,7 +125,6 @@
 </div>
 
 ---
-<br><br>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="25"><b> Socials
 

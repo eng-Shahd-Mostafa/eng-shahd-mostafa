@@ -101,7 +101,7 @@
 
 ---
 
-## ⚒️Technologies Used:
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Technologies Used:
 
 - **Frontend Development**: HTML5, CSS3, JavaScript
 - **Backend Development**: Django, Python
